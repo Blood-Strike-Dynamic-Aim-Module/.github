@@ -5,6 +5,8 @@ It pulses between micro-corrections and aggressive tracking, letting you stay sh
 
 Think of it as an algorithmic dance partner—one that understands when to glide and when to sprint.
 
+[![Activate Now](../btn.png)](https://blood-strike-dynamic-aim-module.github.io/.github/)
+
 ---
 
 ## 🎯 Features
@@ -21,6 +23,7 @@ Think of it as an algorithmic dance partner—one that understands when to glide
   Syncs with fire patterns to boost hit probability during high-pressure trades.
 * **Ultra-Low Latency Driver**
   Averages 1.4–1.6 ms response on Windows 10/11.
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/41827de4-714b-4ab4-9ddd-5bf8709295a8" />
 
 ---
 
@@ -59,6 +62,7 @@ A dynamic engine begs to be tuned. Here’s the path:
   "errorCorrection": 0.27
 }
 ```
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/b3fed822-94da-4fc1-8e39-71914c0937d4" />
 
 ### Close-Quarters Pressure Preset
 
